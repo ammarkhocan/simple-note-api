@@ -27,3 +27,11 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan Simple Notes API 
 2. Masuk ke direktori proyek:
    ```bash
    cd simple-notes-api
+
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Jalankan aplikasi:
+   ```bash
+   npm start
